@@ -1,0 +1,1 @@
+# Adverse-Effect-Analysis-of-Tramadol-and-Lyrica-Using-FAERS-Data
