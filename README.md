@@ -10,8 +10,8 @@ This project analyzes adverse drug reactions for **Tramadol** and **Lyrica** usi
 
 
 ## 👤 Author
-**Your Name**  
-*Data Scientist / Researcher*
+**Aman Jha**  
+*Data Analyst*
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aman--jha) or via email at [pjha78498@gmail.com](mailto:pjha78498@gmail.com).
 
