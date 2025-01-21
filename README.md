@@ -13,7 +13,7 @@ This project analyzes adverse drug reactions for **Tramadol** and **Lyrica** usi
 **Your Name**  
 *Data Scientist / Researcher*
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or via email at [your.email@example.com](mailto:your.email@example.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aman--jha) or via email at [pjha78498@gmail.com](mailto:pjha78498@gmail.com).
 
 
 ## 📂 Project Structure
@@ -49,12 +49,12 @@ The FAERS dataset is too large to include in this repository. Please follow thes
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/jha-aman09/Adverse-Effect-Analysis-of-Tramadol-and-Lyrica-Using-FAERS-Data.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd Adverse-Effect-Analysis-of-Tramadol-and-Lyrica-Using-FAERS-Data
    ```
 
 3. Ensure you have Python installed along with the required libraries:
